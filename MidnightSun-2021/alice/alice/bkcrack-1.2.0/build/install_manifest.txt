@@ -1,0 +1,6 @@
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./bkcrack
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./example/secrets.zip
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./example/tutorial.md
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./tools/inflate.py
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./readme.md
+/home/kali/Projects/CTFun/MidnightSun-2021/alice/alice/bkcrack-1.2.0/install/./license.txt

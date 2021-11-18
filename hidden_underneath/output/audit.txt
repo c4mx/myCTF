@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Aug 29 10:26:05 2021
+Invocation: foremost file4_added_e0.jpg 
+Output directory: /home/kali/Projects/CTFun/hidden_underneath/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: file4_added_e0.jpg
+Start: Sun Aug 29 10:26:05 2021
+Length: 307 KB (315334 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     307 KB 	          0 	 
+Finish: Sun Aug 29 10:26:05 2021
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Aug 29 10:26:06 2021

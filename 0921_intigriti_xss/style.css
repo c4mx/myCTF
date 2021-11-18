@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding : 0;
+    margin : 0;
+    padding-top : 20px;
+}
+
+.control {
+    width: 540px;
+}
+
+#new-password {
+    padding: 30px 15px;
+    background: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0 15px 30px rgba(0,0,0, 0.3);
+    position: relative;
+}
+
+#new-password input {
+    border-radius: px;
+    width: 70%;
+    height: 45px;
+    font-size: 15px;
+    border: 2px solid #d1d3d4;
+    color: #111111;
+    font-weight: 500;
+    position: relative;
+}
+
+#new-password input:focus {
+    border-color: lawngreen;
+    outline: none;
+}
+
+#new-password button {
+    font-weight: 500;
+    font-size: 15px;
+    width: 53px;
+    height: 45px;
+    border-radius: 3px;
+    position: relative;
+    float: right;
+    background: #62c934;
+    color: white;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#passwords {
+    width: 100%; /* look here */
+    position: relative;
+    margin-top: 40px;
+    padding: 30px 20px;
+    background: white;
+    border-radius: 5px;
+}
+
+.password {
+    padding: 5px;
+    border-radius: 0px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    height: 50px;
+    cursor: pointer;
+    border-bottom: 2px solid white;
+}
+
+.password span {
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+
+.password button {
+    width: 40px;
+    color: whitesmoke;
+    cursor: pointer;
+    border: none;
+    height: 100%;
+    background: lawngreen;
+}
+
+.saved-pass {
+    opacity: 0.7;
+    text-decoration: line-through;
+}
+
+.row {
+    justify-content: center;
+}
